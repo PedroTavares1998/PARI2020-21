@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Added new filter for pdf files
+*.pdf
+
+# Add vim temp files filter
+*.swp
+
+# Add pycharm files
+.idea/
+
